@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "@mailchimp/mailchimp_marketing": "^3.0.80",
+    "firebase-admin": "^11.7.0",
+    "mailchimp-api-v3": "^1.15.0"
+  }
+}
